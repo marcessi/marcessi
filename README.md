@@ -12,7 +12,7 @@ I'm a third-year Computer Engineering student at the Universitat Politècnica de
 ### 🚀 Featured Project
 
 #### [Whomp'Em Remake](https://github.com/marcessi/WhompEm)
-A modern recreation of the NES classic *Whomp'Em* using C++ and a custom game engine framework. It features:
+A modern recreation of the NES classic *Whomp'Em* using C++ and OpenGL. It features:
 - Rich player animations and combat mechanics
 - Power-ups, enemy AI, and boss fights
 - Multiple UI screens, sound effects, and music
