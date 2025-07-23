@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Marc
 
-I'm a final-year Computer Engineering student at the Universitat Politècnica de Catalunya (UPC), specializing in Computing and Artificial Intelligence. I'm currently seeking **curricular internships** and a **Bachelor’s Thesis project** to complete my degree.
+I'm a final-year Computer Engineering student at the Universitat Politècnica de Catalunya (UPC), specializing in Computing and Artificial Intelligence. I'm currently seeking **curricular internships** and a **Bachelor's Thesis project** to complete my degree.
 
 ### 💻 About Me
 
@@ -32,6 +32,15 @@ A modern recreation of the NES classic *Whomp'Em* using C++ and OpenGL. It featu
 - Power-ups, enemy AI, and boss fights  
 - Multiple UI screens, sound effects, and music  
 - Fully animated HUD and Ice Totem weapon system  
+
+#### [📱 iPhone Calculator](https://github.com/marcessi/iphone-calculator)  
+An exact replica of the iPhone calculator built with HTML, CSS, and vanilla JavaScript. Features authentic iOS design and complete functionality:  
+- **Authentic UI**: Official colors, San Francisco font, and hover effects that match the real iPhone calculator  
+- **Complete functionality**: All basic operations (+, -, ×, ÷), percentage, sign change, decimal handling  
+- **Smart features**: Error handling, scientific notation for long numbers, 9-digit display limit  
+- **iPhone behavior**: Persistent display, intuitive input flow, and proper state management  
+- **Responsive design**: Adapts to different screen sizes while maintaining the authentic look  
+- Built with pure vanilla JavaScript - no dependencies required  
 
 #### [miniJ](https://github.com/marcessi/miniJ)  
 An interpreter for a subset of the J programming language, built as an academic project. It includes:  
