@@ -9,7 +9,6 @@ I'm a final-year Computer Engineering student at the Universitat Politècnica de
 - 🔧 Proficient in Java, C++, Python, and JavaScript, with experience in frameworks like React, OpenGL, and Unity  
 - 💡 Focused on problem solving, computational efficiency, and clean, scalable code  
 - 🌍 Fluent in Catalan and Spanish, with B2 level English  
-- 🚗 Available for immediate incorporation (has driving license and own vehicle)
 
 ### 🚀 Featured Projects
 
