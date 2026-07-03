@@ -1,6 +1,6 @@
 # Marc Escribano
 
-Software Engineer with a focus on optimization, backend systems, and applied AI. Recent Computer Engineering graduate (UPC), currently working professionally while starting a Master's degree this fall.
+Computer Engineer (Computing specialization), UPC. Focused on optimization, backend systems, and applied AI. Currently working professionally while starting a Master's degree this fall.
 
 I like problems that reduce to something formal — scheduling, constraint satisfaction, resource allocation — and turning them into systems people actually use. Comfortable moving across languages and layers of the stack depending on what the problem needs.
 
