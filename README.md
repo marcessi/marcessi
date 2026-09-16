@@ -23,7 +23,7 @@ Also worked with Haskell, OpenGL and Unity through coursework in functional prog
 
 ## Projects
 
-### [OPLscheduler](https://github.com/marcessi/opl-scheduler)
+### OPLscheduler *(private repository)*
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
